@@ -1,0 +1,29 @@
+{
+  "name": "passman-ui",
+  "version": "1.0.0",
+  "description": "PassmanUI is the UI version of my [passman-cli](https://github.com/anthrxc/passman-cli) project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthrxc/passman-ui.git"
+  },
+  "keywords": [
+    "password-manager",
+    "electron"
+  ],
+  "author": "anthrxc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthrxc/passman-ui/issues"
+  },
+  "homepage": "https://github.com/anthrxc/passman-ui#readme",
+  "dependencies": {
+    "electron": "^24.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
