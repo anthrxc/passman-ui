@@ -1,8 +1,7 @@
 # passman-ui
 
 PassmanUI is the UI version of my [passman-cli](https://github.com/anthrxc/passman-cli) project.  
-The UI is built in Electron, but the core functionality is still the same.  
-...unless I change my mind mid-project, who knows.
+The UI is built in Electron, and the backend is much more refined and in general is just way better than the CLI version.
 
 ## Contributions
 I probably won't accept any contributions but you're still welcome to make them.  
