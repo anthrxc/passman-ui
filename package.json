@@ -2,7 +2,7 @@
   "name": "passman-ui",
   "version": "1.0.0",
   "description": "PassmanUI is the UI version of my [passman-cli](https://github.com/anthrxc/passman-cli) project.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "electron ."
   },
